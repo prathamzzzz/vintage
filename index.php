@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <title>vinatge</title>
+    <style>
+        body{
+            text-align: center;
+        }
+        .navbar{
+            background-color: #2f2e2e;
+            text-align: center;
+          
+            
+
+        }
+        a:hover{
+            text-size: 10px;
+            
+        }
+        .carousel-inner{
+            
+            margin: auto;
+            max-width: 1100px;
+            max-height: 1000px;
+        }
+        .col-12{
+          box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+          padding: 30px;
+        }
+        #support{
+          background-color: white;
+          margin-top: 10px;
+
+        }
+        .about{
+        
+          
+         
+        }
+       #wix{
+        max-width: 900px;
+        max-height: 800px;
+        background-color: thistle;
+        margin: auto;
+
+       }
+    </style>
+  </head>
+  <body>
+
+    <nav class="navbar nav-expand-lg navbar-dark bg-dark text-center ">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#"></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav text-center">
+              <li class="nav-item ">
+                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">service</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">our work</a>
+              </li>
+               <li class="nav-item">
+                <a class="nav-link" href="#">About us</a>
+
+               </li class="nav-item">
+                 <a class="nav-link" href="#">Contact</a>
+               <li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Book online</a>
+                </li>
+               
+               <li>
+                <a href=""></a>
+               </li>
+
+              
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <div id="carouselExampleSlidesOnly" class="carousel slide mt-2" data-bs-ride="carousel">
+        <div class="carousel-inner ">
+          <div class="carousel-item active text-center">
+            <img src="car-171422_1920.jpg" class="d-block w-100" alt="...">
+          </div>
+          <div class="carousel-item">
+            <img src="buick-1400243_1920.jpg" class="d-block w-100" alt="...">
+          </div>
+          <div class="carousel-item">
+            <img src="vint.jpg" class="d-block w-100" alt="...">
+          </div>
+        </div>
+      </div>
+
+      <div class=" mt-5 bg-white" id="support">
+
+        <img src="support.png" width="64px" height="64px" alt="">
+        <h1><b class="text-center">JADE & ANDY</b></h1>
+        <span class="text-center">VINTAGE CAR SPECIALIST</span>
+      </div>
+
+      <div class="container mt-4">
+        <div class="row">
+          <div class="col-12 col-sm-4 "> <img src="v.jpeg" alt="" width="75%" height="75%" ></div>
+
+          <div class="col-12 col-sm-4"> <img src="v2.jpeg" alt="" width="75%" height="75%"></div>
+
+          <div class="col-12 col-sm-4"> <img src="cartooncar.jpg" alt="" width="75%" height="75%"></div>
+
+        </div>
+
+      </div>
+
+      <div class="mt-5 p-3">
+                <img src="social.png" width="60px" height="60px" alt="">
+        <img src="instagram.png" width="60px" height="60px" alt="">
+        <img src="pinterest.png" width="60px" height="60px" alt="">
+      </div>
+      <h1 class="text-center mt-3">SERVICES</h1>
+        
+
+      <div class="container mt-5 ">
+       
+        <div class="row">
+          
+          
+            <div class=" col-sm-4 mt2">
+              <img src="repair.png" width="60px" height="60px" class="" alt="">
+              <h4>REPAIRS</h4>
+              <span>General Repairs,
+                <br>
+                Specialist Repairs
+                <br>
+                 & Vintage Parts</span>
+            </div>
+            <div class=" col-sm-4">
+              <img src="paint.png" width="60px" height="60px" alt="">
+              <h4>PAINTWORK</h4>
+              <span>Spray paint,<br> Custom Stencilling & Variety of <br> Custom Made Artwork</span>
+            </div>
+            <div class=" col-sm-4">
+              <img src="car-seat.png" width="60px" height="60px" alt="">
+              <h4>UPHOLESTERY</h4>
+              <span>Spray paint,<br> Custom Stencilling & Variety of <br> Custom Made Artwork</span>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+      <h1 class="text-center mt-5">OUR WORK</h1>
+    
+    
+      <span class="text-center">A collection of cars we've renovated with passion</span>
+
+      <div class="mt-2">
+       <img src="car-repair4.avif" width="400px" height="400px" alt=""> 
+       <img src="carrep.jpg" width="400px" height="400px" alt="">
+       <img src="cf5.webp" width="400px" height="400px" alt="">
+       <br>
+       <img src="car-.jpg" width="400px" height="400px" alt="">
+       <img src="car-being.avif" width="400px" height="400px" alt="">
+       <img src="car-restoration.jpg" width="400px" height="400px" alt="">
+      </div>
+
+
+
+      <div class="about ">
+        <div class="container bg-dark text-light mt-5 p-5">
+          <h1>ABOUT US</h1>
+
+          <span>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. <br> Feel free to drag and drop me anywhere you like on your page. <br><br> I’m a great place for you to tell a story and let your users know a little more about you.
+
+            ​
+            
+           <br> This is a great space to write long text about your company and your <services class="br"></services> You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. </span>
+
+        </div>
+
+      </div>
+
+
+      <div class=" text-center mt-5 p-5" id="wix">
+
+        <img src="wix.webp" class="text-center" alt="">
+        <div class="container-fluid bg-white">
+
+          <div>
+            <span>
+              
+           
+
+ 
+ 
+            </span>
+          </div>
+
+          <h1>FIND US</h1>
+
+          <form action="" method="POST">
+           <div>
+            <label for="">FIRST NAME</label>
+           </div>  
+           <div>
+            <input type="text" name="firstname" id="">
+           </div>
+           <div>
+            <label for="">LAST NAME</label>
+           </div>
+           <div>
+            <input type="text" name="lastname" id="">
+           </div>
+           <div>
+            <label for="">EMAIL</label>
+           </div>
+           <div>
+            <input type="email" name="email" id="">
+           </div>
+           <div>
+            <label for="">SUBJECT</label>
+           </div>
+           <div>
+            <input type="text" name="subject" id="">
+           </div>
+           <div>
+            <label for="">MESSAGE</label>
+           </div>
+           <div>
+            <textarea name="message" id="" cols="20" rows="5"></textarea>
+           </div>
+           <div>
+            <input type="submit" name="submit" class="btn-dark" id="">
+           </div>
+           
+          </form>
+
+        </div>
+      
+      </div>
+
+      
+
+
+    
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
